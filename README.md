@@ -8,3 +8,5 @@ UT Austin Class of 2026
   - UT ISSS
 
 Projects:
+
+  JP Morgan Chase - Midas Project (Forage Advanced JPMC Software Engineering Project)
