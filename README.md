@@ -10,3 +10,5 @@ UT Austin Class of 2026
 Projects:
 
   JP Morgan Chase - Midas Project (Forage Advanced JPMC Software Engineering Project)
+  InstaTab - Hack TX 2024 Group Project
+  
