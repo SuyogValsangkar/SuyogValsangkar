@@ -7,7 +7,4 @@ UT Austin Class of 2026
   - UT Chess Team
   - UT ISSS
 
-Projects:
-- work in progress
-
-  
+Currently @ ILS for Software Engineering
